@@ -13,10 +13,16 @@ Hi! I'm a Junior Front-End Developer passionate about building responsive and us
 ---
 [![](https://visitcount.itsvg.in/api?id=bogoboom&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🐍 GitHub Snake Contribution Graph
+<!-- ### 🐍 GitHub Snake Contribution Graph
 
 <img alt="github-snake" src="https://raw.githubusercontent.com/bogoboom/bogoboom/output/github-snake.svg" />
 
 ### 🐍 GitHub Snake Contribution Graph
 
-<img alt="github-snake" src="https://raw.githubusercontent.com/bogoboom/bogoboom/output/github-snake.gif" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/bogoboom/bogoboom/output/github-snake.gif" /> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
