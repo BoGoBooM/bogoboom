@@ -18,5 +18,6 @@ Hi! I'm a Junior Front-End Developer passionate about building responsive and us
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bogoboom/bogoboom/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bogoboom/bogoboom/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/bogoboom/bogoboom/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/bogoboom/bogoboom/output/github-snake.gif" />
 </picture>
 
